@@ -12,9 +12,7 @@ website:
       - text: "Research"
         href: research.qmd
       - icon: github
-        href: https://github.com/YOURUSERNAME
-      - icon: envelope
-        href: "mailto:your.email@example.com"
+        href: https://github.com/thomasvargas
 
 format:
   html:

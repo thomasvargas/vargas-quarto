@@ -11,10 +11,6 @@ format:
 
 ## Published
 
-::: {.panel-tabset}
-
-## Published
-
 <div class="paper-entry mb-5">
 ### Democracy, Rural Inequality, and Education Spending
 *Published in **World Development (2022)** *
