@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "THOMAS R VARGAS"
+  google-analytics: "G-QK7N03YBK4" # <--- Paste here
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - icon: github
+        href: https://github.com/YOURUSERNAME
+      - icon: envelope
+        href: "mailto:your.email@example.com"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    mainfont: "Inter"
+    fontsize: 1.1em

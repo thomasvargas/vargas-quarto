@@ -1,0 +1,122 @@
+---
+title: "Research"
+format:
+  html:
+    page-layout: article
+---
+
+<br>
+
+::: {.panel-tabset}
+
+## Published
+
+<div class="paper-entry mb-5">
+### Democracy, Rural Inequality, and Education Spending
+*Published in **World Development (2022)** *
+<br>
+<small class="text-muted">Co-authored with David Samuels</small>
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/graph1.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+Democracies are supposed to invest in their people, yet many democratic nations spend surprisingly little on education. We argue the culprit is often the landed elite. While urban industries want educated workers, agricultural elites fear that education will encourage laborers to migrate to cities, driving up rural wages. Using data from 107 countries, we show that democracy only boosts human capital investment where land inequality is low. Where landed elites remain powerful, they successfully lobby to defund public education, effectively blocking the path to development for the rural poor.
+
+<br>
+[<i class="bi bi-file-pdf"></i> PDF](files/samuelsandvargas.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+[<i class="bi bi-journal-text"></i> Journal Link](https://doi.org/10.1016/j.worlddev.2022.106136){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
+<hr style="opacity: 0.1;">
+
+<div class="paper-entry mb-5">
+### Closing the Gender Gap? How Altmetrics Influence Citations
+*Published in **International Studies Perspective (2022)** *
+<br>
+<small class="text-muted">Co-authored with Michelle L. Dion & Sara McLaughlin Mitchell</small>
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/graph1.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+Political science, like many disciplines, has a gendered citation gap: men tend to cite other men. This paper explores whether tweets and blog posts can help improve the exposure of women. Analyzing over 8,000 articles, we find that online promotion significantly boosts formal academic citations, with women benefiting the most. While social media might not be a silver bullet, active online engagement seems like a powerful tool for women scholars to reclaim visibility and narrow the citation gap.
+
+<br>
+[<i class="bi bi-file-pdf"></i> PDF](files/vargas_gender.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+[<i class="bi bi-journal-text"></i> Journal Link](https://academic.oup.com/isp/article-abstract/24/2/189/6705570?redirectedFrom=fulltext&login=true){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
+<hr style="opacity: 0.1;">
+
+<div class="paper-entry mb-5">
+### Decentralization as a Political Weapon
+*Published in **Comparative Politics (2021)** *
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/dissertation-graph.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+Why do some governments push to decentralize education while others centralize control? Conventional wisdom says it’s about improving school quality. Drawing on evidence from El Salvador and Paraguay, I argue the motivation is often far more cynical: decentralization is a political weapon. By shifting hiring power to local levels, ruling parties can fragment powerful national teachers' unions affiliated with the opposition. This strategy effectively demobilizes rival voting blocs, turning education policy into a tool for regime survival rather than student success.
+
+<br>
+[<i class="bi bi-file-pdf"></i> PDF](files/vargas_decentralizationweapon.pdf){.btn .btn-outline-primary .btn-sm role="button"} 
+[<i class="bi bi-journal-text"></i> Journal Link](https://www.ingentaconnect.com/content/cuny/cp/2022/00000055/00000001/art00003;jsessionid=1hvflf0sp4jmk.x-ic-live-02){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
+<hr style="opacity: 0.1;">
+
+<div class="paper-entry mb-5">
+### Flying Blind: Education Reform in Latin America
+*Published in **International Journal of Education Reform (2020)** *
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/graph3.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+It is often assumed that the wave of education reforms in 1990s Latin America was a necessary response to a "crisis" of failing schools. However, a review of the historical data shows that enrollment and completion rates were actually high, and there was little empirical evidence at the time suggesting a quality crisis. If the schools weren't broken, why fix them? This paper challenges the standard narrative, arguing that we need to look past technical explanations and revisit the political incentives that drove leaders to overhaul systems that were, by most metrics, working reasonably well.
+
+<br>
+[<i class="bi bi-file-pdf"></i> PDF](files/vargas_flyingblind.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+[<i class="bi bi-journal-text"></i> Journal Link](https://journals.sagepub.com/doi/10.1177/1056787920931487){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
+## Working Papers
+
+<div class="paper-entry mb-5">
+### The Political Preferences of Prospective Homeowners
+*Working Paper (Evidence from Canada)*
+<br>
+<small class="text-muted">Co-authored with Michelle L. Dion</small>
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/graph4.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+Political scientists often assume homeownership makes people more conservative. But what about renters who *want* to buy? We argue that renting is not a monolith. Distinguishing between "satisfied renters" and "prospective homeowners," we use a first-of-its-kind survey of Canadian renters to show that the shift toward conservatism happens *before* the house is bought. Prospective owners already hold conservative views on redistribution, suggesting the "homeowner effect" might actually be a selection effect.
+
+<br>
+[<i class="bi bi-file-pdf"></i> Draft PDF](files/dionvargas.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
+::: ```

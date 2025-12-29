@@ -1,0 +1,18 @@
+---
+title: ""
+page-layout: article
+---
+
+# I work on issues related to global health and development, with a focus on education in low and middle-income countries.
+
+::::: {.grid .align-items-start}
+::: {.g-col-12 .g-col-md-7}
+### Biography
+
+I’m a Senior Researcher at Rethink Priorities where I support the Global Health and Development team. My published work explores the politics of education and issues in political economy. A political scientist by training, my work appears in *Comparative Politics*, *World Development*, and other journals. I’m also an #rstats fan/evangelist.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+![Figure reproduced from my dissertation.](images/dissertation-graph.png){.mt-2}
+:::
+:::::
