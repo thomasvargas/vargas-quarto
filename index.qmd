@@ -9,7 +9,9 @@ page-layout: article
 ::: {.g-col-12 .g-col-md-7}
 ### Biography
 
-I’m a Senior Researcher at Rethink Priorities where I support the Global Health and Development team. My published work explores the politics of education and issues in political economy. A political scientist by training, my work appears in *Comparative Politics*, *World Development*, and other journals. I’m also an #rstats fan/evangelist.
+I’m a Senior Researcher at [Rethink Priorities](https://rethinkpriorities.org) where I support the Global Health and Development team. Previously, I worked at **J-PAL**, the **World Bank**, and the **Canadian Privy Council Office**.
+
+A political scientist by training, my research explores the political economy of development, with a focus on the politics of education. My work has appeared in *World Development*, *Comparative Politics*, and *International Studies Perspectives*. I am also an advocate for open science and an **#rstats** evangelist.
 :::
 
 ::: {.g-col-12 .g-col-md-5}
