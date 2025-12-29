@@ -42,14 +42,14 @@ Democracies are supposed to invest in their people, yet many democratic nations 
 
 ::: {.grid .mt-3}
 ::: {.g-col-12 .g-col-md-5}
-![](images/graph1.png){.border .rounded .p-1}
+![](images/graph5.png){.border .rounded .p-1}
 :::
 
 ::: {.g-col-12 .g-col-md-7}
 Political science, like many disciplines, has a gendered citation gap: men tend to cite other men. This paper explores whether tweets and blog posts can help improve the exposure of women. Analyzing over 8,000 articles, we find that online promotion significantly boosts formal academic citations, with women benefiting the most. While social media might not be a silver bullet, active online engagement seems like a powerful tool for women scholars to reclaim visibility and narrow the citation gap.
 
 <br>
-[<i class="bi bi-file-pdf"></i> PDF](files/vargas_gender.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+[<i class="bi bi-file-pdf"></i> PDF](files/DionMitchellVargas.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 [<i class="bi bi-journal-text"></i> Journal Link](https://academic.oup.com/isp/article-abstract/24/2/189/6705570?redirectedFrom=fulltext&login=true){.btn .btn-outline-primary .btn-sm role="button"}
 :::
 :::
