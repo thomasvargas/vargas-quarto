@@ -5,6 +5,7 @@ project:
 website:
   title: "THOMAS R VARGAS"
   google-analytics: "G-QK7N03YBK4" # <--- Paste here
+  favicon: images/favicon.png  # <--- Add this line
   navbar:
     right:
       - text: "Home"
