@@ -86,3 +86,11 @@ figure figcaption {
   white-space: nowrap !important;
   border: 0 !important;
 }
+
+/* --- Fix Button Icon Visibility --- */
+/* Ensure icons inside buttons have full opacity and stand out */
+.btn i.bi {
+  opacity: 1 !important;
+  font-weight: 600 !important; /* Makes the icon slightly bolder */
+  margin-right: 4px; /* Adds a tiny bit of space between icon and text */
+}
