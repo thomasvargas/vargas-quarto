@@ -24,7 +24,7 @@ website:
         aria-label: "Google Scholar"
 
   page-footer:
-    left: "© 2025 Thomas Vargas"
+    left: "© 2025 Thomas R. Vargas"
     right: "Built with [Quarto](https://quarto.org/)"
 
 format:
