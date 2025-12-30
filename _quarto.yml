@@ -4,8 +4,9 @@ project:
 
 website:
   title: "THOMAS R VARGAS"
-  google-analytics: "G-QK7N03YBK4" # <--- Paste here
-  favicon: images/favicon.png  # <--- Add this line
+  google-analytics: "G-QK7N03YBK4"
+  favicon: images/favicon.png
+  
   navbar:
     right:
       - text: "Home"
@@ -14,12 +15,18 @@ website:
         href: research.qmd
       - icon: github
         href: https://github.com/thomasvargas
+        aria-label: "GitHub"
       - icon: linkedin
         href: https://www.linkedin.com/in/thomas-vargas-a7110325/
         aria-label: "LinkedIn"
       - icon: google
         href: https://scholar.google.ca/citations?user=5oWJ6bQAAAAJ&hl=en
         aria-label: "Google Scholar"
+
+  page-footer:
+    left: "© 2025 Thomas Vargas"
+    right: "Built with [Quarto](https://quarto.org/)"
+
 format:
   html:
     theme: cosmo
@@ -27,7 +34,3 @@ format:
     toc: false
     mainfont: "Inter"
     fontsize: 1.1em
-    
-  page-footer:
-    left: "© 2025 Thomas Vargas"
-    right: "Built with [Quarto](https://quarto.org/)"
