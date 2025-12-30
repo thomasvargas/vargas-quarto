@@ -14,7 +14,12 @@ website:
         href: research.qmd
       - icon: github
         href: https://github.com/thomasvargas
-
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thomas-vargas-a7110325/
+        aria-label: "LinkedIn"
+      - icon: google
+        href: https://scholar.google.ca/citations?user=5oWJ6bQAAAAJ&hl=en
+        aria-label: "Google Scholar"
 format:
   html:
     theme: cosmo
