@@ -86,3 +86,23 @@ figure figcaption {
   white-space: nowrap !important;
   border: 0 !important;
 }
+
+/* --- FIX: Make button icons solid and visible --- */
+
+/* 1. Default State: Force icons to be solid theme color & fully opaque */
+.btn-outline-primary .bi,
+a.btn-outline-primary i {
+    /* Use the exact theme blue color variable */
+    color: var(--bs-primary, #0d6efd) !important;
+    opacity: 1 !important;
+    filter: none !important; /* Removes any subtle graying effects */
+    font-weight: 700 !important; /* Makes them slightly thicker for visibility */
+}
+
+/* 2. Hover State: Ensure they turn solid white when hovering the button */
+.btn-outline-primary:hover .bi,
+.btn-outline-primary:focus .bi,
+a.btn-outline-primary:hover i {
+    color: white !important;
+    opacity: 1 !important;
+}

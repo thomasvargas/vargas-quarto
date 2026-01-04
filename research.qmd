@@ -97,6 +97,50 @@ It is often assumed that the wave of education reforms in 1990s Latin America wa
 :::
 </div>
 
+## Reports
+
+<div class="paper-entry mb-5">
+### US Foreign Aid Funding Pause: A Framework for Giving
+*Report for **Rethink Priorities (2025)** *
+<br>
+<small class="text-muted">Authored by Thomas R Vargas</small>
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/graph6.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+In January 2025, the US government initiated a significant pause on foreign aid obligations, disrupting critical supply chains in global health and development. This report provides a framework for donors trying to navigate this funding crisis. We outline two distinct strategies: a "Cause Approach" for donors committed to specific sectors like HIV/AIDS, and a "Funding Opportunity Approach" for those looking to fill immediate, high-impact gaps left by the withdrawal of USAID support.
+
+<br>
+[<i class="bi bi-file-pdf"></i> PDF](files/vargasUSAID.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
+<hr style="opacity: 0.1;">
+
+<div class="paper-entry mb-5">
+### Promising Interventions in Maternal and Neonatal Health
+*Report for **Rethink Priorities (2025)** *
+<br>
+<small class="text-muted">Co-authored with Greer Gosnell</small>
+
+::: {.grid .mt-3}
+::: {.g-col-12 .g-col-md-5}
+![](images/graph7.png){.border .rounded .p-1}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+Commissioned by Open Philanthropy, this report investigates tractable and neglected opportunities to reduce maternal and neonatal mortality in low- and middle-income countries. After reviewing over 50 potential interventions, we shortlisted and modeled the cost-effectiveness of three specific areas: Basic Emergency Obstetric and Newborn Care (BEmONC), Antenatal Care packages, and Injectable Antibiotics for Newborn Sepsis. The findings aim to guide philanthropic grantmaking toward the most impactful life-saving measures.
+
+<br>
+[<i class="bi bi-file-pdf"></i> PDF](files/gosnellandvargas.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+:::
+:::
+</div>
+
 ## Working Papers
 
 <div class="paper-entry mb-5">
@@ -118,5 +162,4 @@ Political scientists often assume homeownership makes people more conservative. 
 :::
 :::
 </div>
-
-::: ```
+:::
