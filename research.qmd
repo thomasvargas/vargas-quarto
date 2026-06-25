@@ -1,0 +1,202 @@
+---
+title: "Research"
+format:
+  html:
+    page-layout: article
+---
+
+<div class="research-filter">
+<div class="research-search"><i class="bi bi-search"></i><input type="text" id="paper-search" placeholder="Search by title, topic, or keyword…" aria-label="Search papers"></div>
+<div class="filter-chips">
+<button class="filter-chip active" data-tag="all">All</button>
+<button class="filter-chip" data-tag="published">Published</button>
+<button class="filter-chip" data-tag="reports">Reports</button>
+<button class="filter-chip" data-tag="working-papers">Working papers</button>
+</div>
+<p class="result-count" id="result-count"></p>
+</div>
+
+## Published {.research-head}
+
+<div class="paper" data-tags="published political-economy public-opinion">
+<div class="paper-media"><img src="images/2026-homeowners.png" alt="Figure from The Political Preferences of Prospective Homeowners"></div>
+<div class="paper-content">
+<h3>The Political Preferences of Prospective Homeowners: Evidence from Canada</h3>
+<p class="paper-meta">Canadian Journal of Political Science &middot; 2026 &middot; with Michelle L. Dion</p>
+<p>Political scientists often assume homeownership makes people more conservative. But what about renters who <em>want</em> to buy? We argue that renting is not a monolith. Distinguishing between "satisfied renters" and "prospective homeowners," we use a first-of-its-kind survey of Canadian renters to show that prospective owners already hold more right-wing views on redistribution <em>before</em> the house is bought, suggesting the "homeowner effect" may partly be a selection effect. Notably, this ideological shift does not translate into greater support for right-wing parties at the ballot box.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2026-homeowners.pdf"><i class="bi bi-file-pdf"></i> PDF</a> <a class="btn-paper" href="https://doi.org/10.1017/S0008423926101036"><i class="bi bi-journal-text"></i> Journal</a></p>
+<p class="paper-tags"><button class="tag" data-tag="political-economy">Political economy</button> <button class="tag" data-tag="public-opinion">Public opinion</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="published education political-economy">
+<div class="paper-media"><img src="images/2022-democracy-inequality.png" alt="Figure from Democracy, Rural Inequality, and Education Spending"></div>
+<div class="paper-content">
+<h3>Democracy, Rural Inequality, and Education Spending</h3>
+<p class="paper-meta">World Development &middot; 2022 &middot; with David Samuels</p>
+<p>Democracies are supposed to invest in their people, yet many democratic nations spend surprisingly little on education. We argue the culprit is often the landed elite. While urban industries want educated workers, agricultural elites fear that education will encourage laborers to migrate to cities, driving up rural wages. Using data from 107 countries, we show that democracy only boosts human capital investment where land inequality is low. Where landed elites remain powerful, they successfully lobby to defund public education, effectively blocking the path to development for the rural poor.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2022-democracy-inequality.pdf"><i class="bi bi-file-pdf"></i> PDF</a> <a class="btn-paper" href="https://doi.org/10.1016/j.worlddev.2022.106136"><i class="bi bi-journal-text"></i> Journal</a></p>
+<p class="paper-tags"><button class="tag" data-tag="education">Education</button> <button class="tag" data-tag="political-economy">Political economy</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="published gender-open-science">
+<div class="paper-media"><img src="images/2022-altmetrics-gender.png" alt="Figure from Closing the Gender Gap? How Altmetrics Influence Citations"></div>
+<div class="paper-content">
+<h3>Closing the Gender Gap? How Altmetrics Influence Citations</h3>
+<p class="paper-meta">International Studies Perspectives &middot; 2022 &middot; with Michelle L. Dion &amp; Sara McLaughlin Mitchell</p>
+<p>Political science, like many disciplines, has a gendered citation gap: men tend to cite other men. This paper explores whether tweets and blog posts can help improve the exposure of women. Analyzing over 8,000 articles, we find that online promotion significantly boosts formal academic citations, with women benefiting the most. While social media might not be a silver bullet, active online engagement seems like a powerful tool for women scholars to reclaim visibility and narrow the citation gap.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2022-altmetrics-gender.pdf"><i class="bi bi-file-pdf"></i> PDF</a> <a class="btn-paper" href="https://academic.oup.com/isp/article-abstract/24/2/189/6705570"><i class="bi bi-journal-text"></i> Journal</a></p>
+<p class="paper-tags"><button class="tag" data-tag="gender-open-science">Gender &amp; open science</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="published education political-economy">
+<div class="paper-media"><img src="images/dissertation-graph.png" alt="Figure from Decentralization as a Political Weapon"></div>
+<div class="paper-content">
+<h3>Decentralization as a Political Weapon</h3>
+<p class="paper-meta">Comparative Politics &middot; 2021</p>
+<p>Why do some governments push to decentralize education while others centralize control? Conventional wisdom says it's about improving school quality. Drawing on evidence from El Salvador and Paraguay, I argue the motivation is often far more cynical: decentralization is a political weapon. By shifting hiring power to local levels, ruling parties can fragment powerful national teachers' unions affiliated with the opposition. This strategy effectively demobilizes rival voting blocs, turning education policy into a tool for regime survival rather than student success.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2021-decentralization.pdf"><i class="bi bi-file-pdf"></i> PDF</a> <a class="btn-paper" href="https://www.ingentaconnect.com/content/cuny/cp/2022/00000055/00000001/art00003"><i class="bi bi-journal-text"></i> Journal</a></p>
+<p class="paper-tags"><button class="tag" data-tag="education">Education</button> <button class="tag" data-tag="political-economy">Political economy</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="published education">
+<div class="paper-media"><img src="images/2020-flying-blind.png" alt="Figure from Flying Blind: Education Reform in Latin America"></div>
+<div class="paper-content">
+<h3>Flying Blind: Education Reform in Latin America</h3>
+<p class="paper-meta">International Journal of Education Reform &middot; 2020</p>
+<p>It is often assumed that the wave of education reforms in 1990s Latin America was a necessary response to a "crisis" of failing schools. However, a review of the historical data shows that enrollment and completion rates were actually high, and there was little empirical evidence at the time suggesting a quality crisis. If the schools weren't broken, why fix them? This paper challenges the standard narrative, arguing that we need to look past technical explanations and revisit the political incentives that drove leaders to overhaul systems that were, by most metrics, working reasonably well.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2020-flying-blind.pdf"><i class="bi bi-file-pdf"></i> PDF</a> <a class="btn-paper" href="https://journals.sagepub.com/doi/10.1177/1056787920931487"><i class="bi bi-journal-text"></i> Journal</a></p>
+<p class="paper-tags"><button class="tag" data-tag="education">Education</button></p>
+</div>
+</div>
+
+## Reports {.research-head}
+
+<div class="paper" data-tags="reports global-health cost-effectiveness">
+<div class="paper-media paper-media--cover"><img src="images/2026-climate-vs-ghd.png" alt="Cover of Cross-Cause Cost-Effectiveness: Climate vs Global Health and Development"></div>
+<div class="paper-content">
+<h3>Cross-Cause Cost-Effectiveness: Climate Change versus Global Health and Development</h3>
+<p class="paper-meta">Rethink Priorities &middot; 2026 &middot; with Abbie Clare</p>
+<p>Can a dollar do more good fighting climate change or funding global health and development? This report builds a transparent framework to compare the two head-to-head. Drawing on interviews with EA-aligned experts, we isolate five "cruxes" that drive the comparison &mdash; from the marginal cost of abating a tonne of CO&#8322;e to philosophical choices like sure-bet versus hits-based giving &mdash; and build two models estimating cost per life saved. We find climate interventions can be competitive with top GHD opportunities, but only under specific conditions: hits-based climate bets, low abatement costs, and valuing the health damages of air pollution alongside warming.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2026-climate-vs-ghd.pdf"><i class="bi bi-file-pdf"></i> PDF</a></p>
+<p class="paper-tags"><button class="tag" data-tag="global-health">Global health</button> <button class="tag" data-tag="cost-effectiveness">Cost-effectiveness</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="reports global-health">
+<div class="paper-media paper-media--cover"><img src="images/2026-water-landscape.png" alt="Cover of Landscape of Water Programs in Low- and Middle-Income Countries"></div>
+<div class="paper-content">
+<h3>Landscape of Water Programs in Low- and Middle-Income Countries</h3>
+<p class="paper-meta">Rethink Priorities &middot; 2026 &middot; with Greer Gosnell &amp; Ruby Dickson</p>
+<p>Where does money go in the global water sector, and who are the key players? This landscaping report maps the organizations working on water, sanitation, and hygiene (WASH) in low- and middle-income countries. From a longlist of 285 implementers we vetted 98 and profiled 29 in depth &mdash; spanning large NGOs, bilateral-aid contractors, and small specialist outfits &mdash; alongside the major funders and the debates shaping the sector. The result is a practical guide for donors trying to navigate a crowded, underfunded, but high-impact space.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2026-water-landscape.pdf"><i class="bi bi-file-pdf"></i> PDF</a></p>
+<p class="paper-tags"><button class="tag" data-tag="global-health">Global health</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="reports global-health">
+<div class="paper-media paper-media--cover"><img src="images/2026-maternal-mortality-impacts.png" alt="Cover of The Impacts of Maternal Mortality"></div>
+<div class="paper-content">
+<h3>The Impacts of Maternal Mortality: Under-Five Mortality and Household Finances</h3>
+<p class="paper-meta">Rethink Priorities &middot; 2026 &middot; with Jenny Kudymowa</p>
+<p>When a mother dies, what happens to the family she leaves behind? Commissioned by GiveWell, this report synthesizes the evidence on the downstream effects of maternal mortality in low-income countries, focusing on under-five mortality and household finances. We estimate how many additional child deaths tend to follow each maternal death, trace the consequences for family health and income, and assess how strong the underlying evidence really is.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2026-maternal-mortality-impacts.pdf"><i class="bi bi-file-pdf"></i> PDF</a></p>
+<p class="paper-tags"><button class="tag" data-tag="global-health">Global health</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="reports global-health">
+<div class="paper-media"><img src="images/2025-foreign-aid-pause.png" alt="Figure from US Foreign Aid Funding Pause"></div>
+<div class="paper-content">
+<h3>US Foreign Aid Funding Pause: A Framework for Giving</h3>
+<p class="paper-meta">Rethink Priorities &middot; 2025</p>
+<p>In January 2025, the US government initiated a significant pause on foreign aid obligations, disrupting critical supply chains in global health and development. This report provides a framework for donors trying to navigate this funding crisis. We outline two distinct strategies: a "Cause Approach" for donors committed to specific sectors like HIV/AIDS, and a "Funding Opportunity Approach" for those looking to fill immediate, high-impact gaps left by the withdrawal of USAID support.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2025-foreign-aid-pause.pdf"><i class="bi bi-file-pdf"></i> PDF</a></p>
+<p class="paper-tags"><button class="tag" data-tag="global-health">Global health</button></p>
+</div>
+</div>
+
+<div class="paper" data-tags="reports global-health cost-effectiveness">
+<div class="paper-media"><img src="images/2025-maternal-neonatal.png" alt="Figure from Promising Interventions in Maternal and Neonatal Health"></div>
+<div class="paper-content">
+<h3>Promising Interventions in Maternal and Neonatal Health</h3>
+<p class="paper-meta">Rethink Priorities &middot; 2025 &middot; with Greer Gosnell</p>
+<p>Commissioned by Open Philanthropy, this report investigates tractable and neglected opportunities to reduce maternal and neonatal mortality in low- and middle-income countries. After reviewing over 50 potential interventions, we shortlisted and modeled the cost-effectiveness of three specific areas: Basic Emergency Obstetric and Newborn Care (BEmONC), Antenatal Care packages, and Injectable Antibiotics for Newborn Sepsis. The findings aim to guide philanthropic grantmaking toward the most impactful life-saving measures.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2025-maternal-neonatal.pdf"><i class="bi bi-file-pdf"></i> PDF</a></p>
+<p class="paper-tags"><button class="tag" data-tag="global-health">Global health</button> <button class="tag" data-tag="cost-effectiveness">Cost-effectiveness</button></p>
+</div>
+</div>
+
+## Working Papers {.research-head}
+
+<div class="paper" data-tags="working-papers education global-health cost-effectiveness">
+<div class="paper-media"><img src="images/2026-education-is-health.png" alt="Figure from Education is Health"></div>
+<div class="paper-content">
+<h3>Education is Health: A Cross-Sectoral Cost-Effectiveness Framework for Adolescent Girls in LMICs</h3>
+<p class="paper-meta paper-meta--wip">Under review &middot; 2026 &middot; with Ruby Emerson, Seth Garz, Mahlet A. Woldetsadik, Kym Cole &amp; John Firth</p>
+<p>How should a finance ministry value an education program for adolescent girls? Traditional cost-effectiveness analysis counts only the economic returns to schooling &mdash; and, we argue, dramatically underestimates the payoff. Building an integrated cross-sectoral framework that places explicit moral weights on health, social, and economic outcomes, we find that health and social benefits account for roughly 59% of total impact for adolescent girls and young women (AGYW) in low- and middle-income countries. Benchmarked against high-performing unconditional cash transfers, the median intervention we model is about 50% more cost-effective &mdash; making the case for budgeting across, rather than within, the silos of health, education, and finance.</p>
+<p class="paper-links"><a class="btn-paper" href="files/2026-education-is-health.pdf"><i class="bi bi-file-pdf"></i> Draft PDF</a></p>
+<p class="paper-tags"><button class="tag" data-tag="education">Education</button> <button class="tag" data-tag="global-health">Global health</button> <button class="tag" data-tag="cost-effectiveness">Cost-effectiveness</button></p>
+</div>
+</div>
+
+<div class="no-results">No papers match your search.</div>
+
+<script>
+(function () {
+  const search = document.getElementById('paper-search');
+  const chips = Array.prototype.slice.call(document.querySelectorAll('.filter-chip'));
+  const papers = Array.prototype.slice.call(document.querySelectorAll('.paper'));
+  const sections = Array.prototype.slice.call(document.querySelectorAll('section.level2'));
+  const noResults = document.querySelector('.no-results');
+  const countEl = document.getElementById('result-count');
+  const total = papers.length;
+  let activeTag = 'all';
+
+  function apply() {
+    const q = (search.value || '').trim().toLowerCase();
+    let visibleCount = 0;
+    papers.forEach(function (p) {
+      const tags = (p.getAttribute('data-tags') || '').split(/\s+/);
+      const text = p.textContent.toLowerCase();
+      const matchTag = activeTag === 'all' || tags.indexOf(activeTag) !== -1;
+      const matchText = !q || text.indexOf(q) !== -1;
+      const show = matchTag && matchText;
+      p.style.display = show ? '' : 'none';
+      if (show) visibleCount++;
+    });
+    sections.forEach(function (s) {
+      const visible = Array.prototype.slice.call(s.querySelectorAll('.paper'))
+        .some(function (p) { return p.style.display !== 'none'; });
+      s.style.display = visible ? '' : 'none';
+    });
+    if (noResults) noResults.style.display = visibleCount ? 'none' : 'block';
+    if (countEl) countEl.textContent = 'Showing ' + visibleCount + ' of ' + total + ' works';
+  }
+
+  function setTag(tag) {
+    activeTag = tag;
+    chips.forEach(function (c) { c.classList.toggle('active', c.getAttribute('data-tag') === tag); });
+    apply();
+  }
+
+  if (search) search.addEventListener('input', apply);
+  chips.forEach(function (c) {
+    c.addEventListener('click', function () { setTag(c.getAttribute('data-tag')); });
+  });
+  // Card tags are search shortcuts: drop the topic into the search box.
+  document.querySelectorAll('.tag').forEach(function (t) {
+    t.addEventListener('click', function () {
+      setTag('all');
+      search.value = t.textContent.trim();
+      apply();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+
+  apply();
+})();
+</script>

@@ -1,0 +1,88 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+
+/* --- Typography Base --- */
+/* Headers remain Playfair Display for editorial feel */
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  color: #1a1a1a;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #333;
+  line-height: 1.7;
+}
+
+/* --- Navbar Styling (NEW) --- */
+.navbar {
+  /* A deep slate blue - modern and professional */
+  background-color: #2C3E50 !important;
+  border-bottom: none;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* Force Brand Name and Links to be White and use Inter font */
+.navbar-brand,
+.navbar-nav .nav-link,
+.bi {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 400 !important;
+  color: #ecf0f1 !important; /* Off-white for contrast */
+  letter-spacing: 0.05em;
+}
+
+/* Subtle hover effect for links */
+.navbar-nav .nav-link:hover,
+.navbar-brand:hover {
+  color: #bdc3c7 !important;
+}
+
+
+/* --- Component Styling --- */
+/* Button Styling for Papers */
+.btn-outline-primary {
+  color: #333;
+  border-color: #333;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.btn-outline-primary:hover {
+  background-color: #333;
+  color: #fff;
+  border-color: #333;
+}
+
+/* Image styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Styling for the dissertation figure caption */
+figure figcaption {
+  margin-top: 0.8em;
+  font-size: 0.9em;
+  color: #666;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Add to the bottom of styles.css */
+.metadata-ghost {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
